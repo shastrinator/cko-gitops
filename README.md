@@ -1,1 +1,1 @@
-# Cisco Live CKO demo
+# repo for CKO GitOps manifests
