@@ -1,1 +1,1 @@
-# cko-gitops
+# Cisco Live CKO demo
